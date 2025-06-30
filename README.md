@@ -11,8 +11,11 @@ This repository contains a complete implementation of decision tree and random f
 3. Overfitting analysis with depth tuning
 4. Comparative performance evaluation (accuracy + cross-validation)
 5. Feature importance interpretation for both models
-6. Comprehensive visual analytics (4 diagnostic plots)                                                                                                                                     
-**Dataset:**
+6. Comprehensive visual analytics (4 diagnostic plots)                                                                                                                  
+
+                      
+**Dataset:**                                                                                                                                                         
+
 The UCI Heart Disease Dataset contains 303 patient samples with 13 clinical features collected from four medical institutions.
 
 1. age - Patient age in years
