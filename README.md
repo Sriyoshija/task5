@@ -36,6 +36,7 @@ The UCI Heart Disease Dataset contains 303 patient samples with 13 clinical feat
 
 Healthy: 138 samples (45.5%)                                                                                                                                         
 Heart Disease: 165 samples (54.5%)                                                                                                                                   
+
 **Installation**
 
 Clone repository:                                                                                                                                                     
@@ -52,7 +53,7 @@ pip install pandas numpy matplotlib scikit-learn graphviz
 
 **References:**                                                                                                                                                      
 
-1. Scikit-learn Documentation:                                                                                                                                       
+   Scikit-learn Documentation:                                                                                                                                       
 Decision Trees: https://scikit-learn.org/stable/modules/tree.html                                                                                                         
 Random Forests: https://scikit-learn.org/stable/modules/ensemble.html#forest                                                                                           
 Graphviz Visualization: https://graphviz.org/doc/info/lang.html                                                                                                       
