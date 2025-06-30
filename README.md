@@ -39,7 +39,7 @@ Heart Disease: 165 samples (54.5%)
 **Installation**
 
 Clone repository:                                                                                                                                                     
-git clone https://github.com/yourusername/heart-disease-prediction.git                                                                                                     
+git clone https://github.com/Sriyoshija/heart-disease-prediction.git                                                                                                     
 cd heart-disease-prediction                                                                                                                                            
 
 Create virtual environment:                                                                                                                                          
@@ -50,6 +50,13 @@ venv\Scripts\activate    # Windows
 Install dependencies:                                                                                                                                                        
 pip install pandas numpy matplotlib scikit-learn graphviz                                                                                                              
 
+**References:**                                                                                                                                                      
+
+1. Scikit-learn Documentation:                                                                                                                                       
+Decision Trees: https://scikit-learn.org/stable/modules/tree.html                                                                                                         
+Random Forests: https://scikit-learn.org/stable/modules/ensemble.html#forest                                                                                           
+Graphviz Visualization: https://graphviz.org/doc/info/lang.html                                                                                                       
+Cardiovascular Risk Prediction: https://www.ahajournals.org/doi/10.1161/CIR.0000000000000638
 
 
 
