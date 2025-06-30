@@ -32,11 +32,23 @@ The UCI Heart Disease Dataset contains 303 patient samples with 13 clinical feat
 12. ca - Number of major vessels colored by fluoroscopy (0-3)
 13. thal - Thalassemia type (1-3: normal/fixed defect/reversible defect)                                                                                                    
 
-Class Distribution:
+**Class Distribution:**
 
-Healthy: 138 samples (45.5%)
-Heart Disease: 165 samples (54.5%)
+Healthy: 138 samples (45.5%)                                                                                                                                         
+Heart Disease: 165 samples (54.5%)                                                                                                                                   
+**Installation**
 
+Clone repository:                                                                                                                                                     
+git clone https://github.com/yourusername/heart-disease-prediction.git                                                                                                     
+cd heart-disease-prediction                                                                                                                                            
+
+Create virtual environment:                                                                                                                                          
+python -m venv venv                                                                                                                                                  
+source venv/bin/activate  # Linux/macOS                                                                                                                                       
+venv\Scripts\activate    # Windows                                                                                                                                   
+
+Install dependencies:                                                                                                                                                        
+pip install pandas numpy matplotlib scikit-learn graphviz                                                                                                              
 
 
 
