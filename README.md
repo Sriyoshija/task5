@@ -32,7 +32,10 @@ The UCI Heart Disease Dataset contains 303 patient samples with 13 clinical feat
 12. ca - Number of major vessels colored by fluoroscopy (0-3)
 13. thal - Thalassemia type (1-3: normal/fixed defect/reversible defect)                                                                                                    
 
+Class Distribution:
 
+Healthy: 138 samples (45.5%)
+Heart Disease: 165 samples (54.5%)
 
 
 
