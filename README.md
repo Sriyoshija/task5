@@ -1,4 +1,4 @@
-# Task5 Decision Tree & Random Forest Classifier Analysis                                                                                                                            
+# Task5 Decision Tree and Random Forest Classifier Analysis                                                                                                                            
 
 Heart Disease Prediction System                                                                                                                                         
 
@@ -51,6 +51,11 @@ venv\Scripts\activate    # Windows
 Install dependencies:                                                                                                                                                        
 pip install pandas numpy matplotlib scikit-learn graphviz                                                                                                              
 
+**Workflow:**                                                                                                                                                        
+
+![image](https://github.com/user-attachments/assets/70e50aba-550c-4325-9207-5279667d1475)
+                                                                                                                                                                                                      
+                                                                                                                                                              
 **References:**                                                                                                                                                      
 
    Scikit-learn Documentation:                                                                                                                                       
