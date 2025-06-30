@@ -15,19 +15,19 @@ This repository contains a complete implementation of decision tree and random f
 **Dataset:**
 The UCI Heart Disease Dataset contains 303 patient samples with 13 clinical features collected from four medical institutions.
 
-age - Patient age in years
-sex - Gender (0 = female, 1 = male)
-cp - Chest pain type (0-3 scale: asymptomatic/typical/atypical/non-anginal)
-trestbps - Resting blood pressure (mm Hg)
-chol - Serum cholesterol (mg/dl)
-fbs - Fasting blood sugar > 120 mg/dl (0/1)
-restecg - Resting electrocardiographic results
-thalach - Maximum heart rate achieved
-exang - Exercise induced angina (0/1)
-oldpeak - ST depression induced by exercise
-slope - Slope of peak exercise ST segment
-ca - Number of major vessels colored by fluoroscopy (0-3)
-thal - Thalassemia type (1-3: normal/fixed defect/reversible defect)
+1. age - Patient age in years
+2. sex - Gender (0 = female, 1 = male)
+3. cp - Chest pain type (0-3 scale: asymptomatic/typical/atypical/non-anginal)
+4. trestbps - Resting blood pressure (mm Hg)
+5. chol - Serum cholesterol (mg/dl)
+6. fbs - Fasting blood sugar > 120 mg/dl (0/1)
+7. restecg - Resting electrocardiographic results
+8. thalach - Maximum heart rate achieved
+9. exang - Exercise induced angina (0/1)
+10. oldpeak - ST depression induced by exercise
+11. slope - Slope of peak exercise ST segment
+12. ca - Number of major vessels colored by fluoroscopy (0-3)
+13. thal - Thalassemia type (1-3: normal/fixed defect/reversible defect)                                                                                                    
 
 
 
